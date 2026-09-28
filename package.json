@@ -1,0 +1,16 @@
+{
+  "name": "careerhub-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "next": "^16.3.2",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
